@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Task Manager App</string>
+    <string name="back_button_text">Back</string>
+    <string name="delete_popup_title">Do you want to remove this task?</string>
+    <string name="delete_popup_message">Press \"Confirm\" to remove.</string>
+    <string name="task_name_text_view">Task name:</string>
+    <string name="task_priority_text_view">Priority:</string>
+    <string name="task_deadline_text_view">Deadline:</string>
+    <string name="task_progress_text_view">Progress:</string>
+    <string name="edit_task_button">Edit task</string>
+    <string name="save_task_button">Save task</string>
+    <string name="task_header_text_view">Task details</string>
+    <string name="task_edit_header_text_view">Add/Edit task</string>
+    <string name="task_name_edit_text">Max 50 characters</string>
+    <string name="task_deadline_edit_text">Tap to select date</string>
+    <string name="task_name_empty_warning">Task name cannot be empty.</string>
+    <string name="task_name_too_long_warning">Task name cannot be longer than 50 characters.</string>
+    <string name="invalid_date_warning">Invalid date.</string>
+
+
+</resources>
